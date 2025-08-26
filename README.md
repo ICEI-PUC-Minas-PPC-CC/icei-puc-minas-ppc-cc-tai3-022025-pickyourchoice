@@ -1,6 +1,6 @@
 # Pick your Choice
 
-osso projeto tem como objetivo auxiliar pessoas que desejam comprar um veículo, mas que muitas vezes acabam sendo induzidas por vendedores a adquirir modelos que não suprem suas necessidades ou que estão acima de sua realidade financeira.  
+Nosso projeto tem como objetivo auxiliar pessoas que desejam comprar um veículo, mas que muitas vezes acabam sendo induzidas por vendedores a adquirir modelos que não suprem suas necessidades ou que estão acima de sua realidade financeira.  
 A solução proposta é um **site didático e interativo** que, a partir da rotina e preferências do usuário, sugere o veículo mais adequado, apresentando comparações de custos, manutenção e benefícios de forma clara.
 
 ---
