@@ -22,7 +22,8 @@ A solução proposta é um **site didático e interativo** que, a partir da roti
 - **Solução proposta:**  Site interativo que, a partir de informações fornecidas pelo usuário sobre seu dia a dia (trajeto, orçamento, preferências), sugere o veículo mais adequado e apresenta comparativos de custos (IPVA, seguro, manutenção, consumo etc.).
 
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores
-- Lean Canvas (imagem ou link)  
+  <img width="1920" height="1080" alt="Pastel Strategic Planning Business Model Canvas Brainstorm" src="https://github.com/user-attachments/assets/42af9768-3cb2-44e0-b5cf-ac799fbacd38" />
+
 - Missão:  Ajudar pessoas a fazer escolhas conscientes na compra de veículos, alinhando necessidades reais com opções acessíveis e seguras.
 - Visão:  Ser a principal plataforma online no Brasil para orientação personalizada na compra de veículos até 2030.
 - Valores:
@@ -33,31 +34,25 @@ A solução proposta é um **site didático e interativo** que, a partir da roti
   - Responsabilidade financeira
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
-- Custos fixos:  Hospedagem do site, manutenção da base de dados, equipe de suporte e TI.
-- Custos variáveis:  Marketing digital, aquisição de dados atualizados sobre veículos, campanhas de divulgação.
-- Tributos aplicáveis:  ISS (sobre serviços digitais), encargos trabalhistas e tributos incidentes sobre assinatura premium.
+- Custos fixos:  
+- Custos variáveis: 
+- Tributos aplicáveis: 
 
 ### 4️⃣ Investimentos e Precificação
-- Investimento inicial:  Desenvolvimento da plataforma web, infraestrutura de servidores, integração com banco de dados de veículos, campanhas de marketing inicial
-- Estratégia de precificação:  versão gratuita com recomendações básicas + versão premium com relatórios detalhados, comparações avançadas e consultoria personalizada. 
-- Justificativa:  Permite atrair um grande número de usuários na versão gratuita, convertendo parte deles para a versão paga com recursos exclusivos. 
+- Investimento inicial: 
+- Estratégia de precificação:  
+- Justificativa:  
 
 ### 5️⃣ SWOT (Análise de Ambientes)
-- Forças:  Solução inovadora, acessível e prática; atende a uma dor real do consumidor.
-- Fraquezas:  Dependência de base de dados atualizada; necessidade de investimentos constantes em marketing. 
-- Oportunidades:  Crescimento da busca online por informações antes da compra; parcerias com concessionárias, autoescolas e financeiras.
-- Ameaças:  Concorrência de sites automotivos consolidados; mudanças no mercado de veículos (como aumento de veículos elétricos).
+- Forças: 
+- Fraquezas: 
+- Oportunidades:
+- Ameaças: 
 
 ### 6️⃣ Planejamento Estratégico (BSC)
-- Objetivos estratégicos: Tornar-se referência em recomendações personalizadas para compra de veículos.
+- Objetivos estratégicos:
 - Indicadores e metas:
-  - Concluir 100% do protótipo (interface + lógica básica).  
-  - Receber feedback de pelo menos 10 usuários (colegas/universitários).  
-  - Apresentar o projeto em sala com um caso prático de recomendação de veículo.
 - Ações planejadas:
-  - Campanhas de marketing digital.  
-  - Atualização periódica do banco de dados.  
-  - Parcerias estratégicas com empresas do setor automotivo.
 
 ### 7️⃣ Fluxo de Caixa
 - Planilha ou print do fluxo projetado:  
@@ -68,9 +63,8 @@ A solução proposta é um **site didático e interativo** que, a partir da roti
 - Valor estimado:  
 
 ### 9️⃣ Segurança Cibernética
-- Riscos identificados:  Vazamento de dados pessoais dos usuários; ataques cibernéticos ao site; indisponibilidade da plataforma.
-- Medidas de segurança:  Criptografia de dados, autenticação de usuários, backup frequente, monitoramento constante de vulnerabilidades e conformidade com a LGPD.
-
+- Riscos identificados: 
+- Medidas de segurança:  
 ---
 
 ## 📅 Diário de Bordo
