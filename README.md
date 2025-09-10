@@ -35,8 +35,28 @@ A solução proposta é um **site didático e interativo** que, a partir da roti
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
 - Custos fixos:  
+      - Hospedagem do site (ex.: servidor em nuvem) → R$ 14,00/mês  
+      - Domínio (www.exemplo.com) → R$ 30,00/ano  
+      - Energia elétrica utilizada durante o desenvolvimento → R$ 37,00/mês  
 - Custos variáveis: 
-- Tributos aplicáveis: 
+      •	Tráfego de dados em nuvem (banda larga/servidor) → R$ 0,25 por GB
+    	•	Impressão de materiais de divulgação → R$ 1,00/unidade
+	    •	Licenciamento de API externa (se o site crescer) → R$ 0,05 por requisição
+- Tributos aplicáveis:
+- 
+   Custos Diretos
+
+Relacionados diretamente ao desenvolvimento do produto.
+	•	Horas de programação da equipe → R$ 60,00/hora × horas de trabalho
+	•	Licenciamento de frameworks/bibliotecas pagas → R$ 100,00 a R$ 500,00/ano (dependendo da ferramenta)
+	•	Equipamentos utilizados no desenvolvimento (computadores, etc.) → R$ 4.000,00/unidade (notebook intermediário para desenvolvimento)
+
+Custos Indiretos
+
+Custos que não estão diretamente ligados ao desenvolvimento, mas impactam o projeto.
+	•	Internet da equipe → R$ 120,00/mês
+	•	Manutenção de equipamentos (ex.: upgrades, reparos) → R$ 500,00/ano por equipamento
+	•	Despesas administrativas (ex.: comunicação da equipe, reuniões online) → R$ 80,00/mês
 
 ### 4️⃣ Investimentos e Precificação
 - Investimento inicial: 
