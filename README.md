@@ -58,6 +58,9 @@ Custos que não estão diretamente ligados ao desenvolvimento, mas impactam o pr
 	•	Manutenção de equipamentos (ex.: upgrades, reparos) → R$ 500,00/ano por equipamento
 	•	Despesas administrativas (ex.: comunicação da equipe, reuniões online) → R$ 80,00/mês
 
+
+LINK PNBOX: https://pnbox.sebrae.com.br/planoNegocio/invite/swNjmw7d5
+
 ### 4️⃣ Investimentos e Precificação
 - Investimento inicial: 
 - Estratégia de precificação:  
