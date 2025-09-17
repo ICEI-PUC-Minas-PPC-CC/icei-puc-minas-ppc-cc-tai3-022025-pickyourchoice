@@ -13,9 +13,9 @@ A solução proposta é um **site didático e interativo** que, a partir da roti
 
 ---
 
-## 🧭 Etapas do Projeto
+## Etapas do Projeto
 
-### 1️⃣ Definição do Problema e da Solução
+### Definição do Problema e da Solução
 - **Problema identificado:** Pessoas que vão comprar veículos e acabam sendo induzidas por vendedores a fazer escolhas inadequadas, gastando além do necessário ou adquirindo um carro que não atende à sua rotina.  
 - **Público-alvo:** Pessoas interessadas em adquirir o primeiro carro ou trocar de veículo, mas que não possuem conhecimento técnico ou financeiro aprofundado sobre o assunto.  
 - **Impacto esperado:** Maior consciência e segurança nas decisões de compra de veículos, evitando gastos desnecessários e escolhas inadequadas.  
@@ -23,7 +23,7 @@ A solução proposta é um **site didático e interativo** que, a partir da roti
 
 ---
 
-### 2️⃣ Lean Canvas / Missão, Visão e Valores
+### Lean Canvas / Missão, Visão e Valores
 
 ![Lean Canvas](https://github.com/user-attachments/assets/42af9768-3cb2-44e0-b5cf-ac799fbacd38)
 
@@ -38,7 +38,7 @@ A solução proposta é um **site didático e interativo** que, a partir da roti
 
 ---
 
-### 3️⃣ Custos e Tributos (PNBOX)
+### Custos e Tributos (PNBOX)
 
 **Custos Fixos**  
 - Hospedagem do site (servidor em nuvem) → R$ 14,00/mês  
@@ -64,9 +64,9 @@ A solução proposta é um **site didático e interativo** que, a partir da roti
 
 ---
 
-### 4️⃣ Investimentos e Precificação
+### Investimentos e Precificação
 
-#### 💰 Investimento Inicial
+####Investimento Inicial
 - Equipamentos: 3 notebooks × R$ 4.000,00 → **R$ 12.000,00**  
 - Horas de programação: 200h × R$ 60,00 → **R$ 12.000,00**  
 - Licenciamento de ferramentas → **R$ 300,00**  
@@ -76,11 +76,11 @@ A solução proposta é um **site didático e interativo** que, a partir da roti
 - Hospedagem (12 meses) → **R$ 168,00**  
 - Domínio → **R$ 30,00**  
 
-➡️ **Total estimado (1º ano): R$ 28.398,00**
+➡**Total estimado (1º ano): R$ 28.398,00**
 
 ---
 
-#### 📌 Estratégia de Precificação
+#### Estratégia de Precificação
 - **Modelo Freemium com Ads**  
   - Recursos básicos gratuitos.  
   - Receita via publicidade (Google Ads, parcerias com seguradoras e concessionárias).  
@@ -95,7 +95,7 @@ A solução proposta é um **site didático e interativo** que, a partir da roti
 
 ---
 
-#### ✅ Justificativa da Precificação
+####Justificativa da Precificação
 - O modelo **freemium** garante tração inicial e amplia a base de usuários.  
 - A assinatura premium gera receita recorrente e acessível ao público-alvo.  
 - Os preços foram definidos com base em plataformas semelhantes (faixa entre R$ 15,00 e R$ 29,90/mês), mantendo a competitividade.  
