@@ -98,7 +98,10 @@ O plano premium garante uma receita recorrente, acessível ao público-alvo, mas
 O valor foi definido com base em comparações de plataformas semelhantes (sites de simulação de financiamento e comparadores de veículos), que variam entre R$ 15,00 e R$ 29,90/mês, mantendo-se competitivo e atrativo.
 O investimento inicial é relativamente baixo comparado ao potencial de escalabilidade digital, garantindo baixo custo fixo e alta margem de lucro no longo prazo.
 
-LINK PLANO DE NEGÓCIO
+## 📑 Plano de Negócio
+Para acessar o documento completo do Plano de Negócio, clique aqui:  
+[👉 Acessar plano_de_negocio.md](./plano_de_negocio.md)
+
 ### 5️⃣ SWOT (Análise de Ambientes)
 - Forças: 
 - Fraquezas: 
