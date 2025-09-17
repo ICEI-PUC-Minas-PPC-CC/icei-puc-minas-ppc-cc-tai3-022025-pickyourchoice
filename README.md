@@ -63,9 +63,42 @@ LINK PNBOX: https://pnbox.sebrae.com.br/planoNegocio/invite/swNjmw7d5
 
 ### 4️⃣ Investimentos e Precificação
 - Investimento inicial: 
-- Estratégia de precificação:  
-- Justificativa:  
+Equipamentos: aquisição de notebooks intermediários para desenvolvimento (3 unidades × R$ 4.000,00) → R$ 12.000,00
 
+	-Custos diretos de desenvolvimento:
+Horas de programação (estimativa de 200h × R$ 60,00/h) → R$ 12.000,00
+Licenciamento de frameworks/bibliotecas pagas (média anual) → R$ 300,00
+
+	-Custos indiretos:
+Internet da equipe (R$ 120,00/mês × 12 meses) → R$ 1.440,00
+Manutenção de equipamentos (3 × R$ 500,00/ano) → R$ 1.500,00
+Despesas administrativas (R$ 80,00/mês × 12 meses) → R$ 960,00
+
+	-Hospedagem e domínio:
+Hospedagem (R$ 14,00/mês × 12 meses) → R$ 168,00
+Domínio → R$ 30,00
+
+- Estratégia de precificação: 
+	-Modelo Freemium com Ads
+Acesso gratuito ao site com recursos básicos (consulta de modelos de veículos, comparativos simplificados).
+Receita obtida por meio de publicidade online (Google Ads, parcerias com seguradoras, concessionárias e oficinas).
+
+	-Assinatura Premium
+Plano mensal (R$ 19,90/mês) ou anual (R$ 199,00/ano) para acesso a recursos exclusivos:
+Comparativos detalhados de custos (seguro, IPVA, manutenção preventiva).
+Simulações financeiras personalizadas.
+Relatórios em PDF para consulta futura.
+
+	-Parcerias e comissões
+Possibilidade de monetização através de comissões de parceiros (seguradoras, bancos, revendas) em caso de indicação bem-sucedida.
+
+- Justificativa:  
+O modelo freemium facilita a atração de usuários e gera tráfego, criando relevância para anúncios e parceiros comerciais.
+O plano premium garante uma receita recorrente, acessível ao público-alvo, mas suficiente para cobrir custos de operação e gerar lucro.
+O valor foi definido com base em comparações de plataformas semelhantes (sites de simulação de financiamento e comparadores de veículos), que variam entre R$ 15,00 e R$ 29,90/mês, mantendo-se competitivo e atrativo.
+O investimento inicial é relativamente baixo comparado ao potencial de escalabilidade digital, garantindo baixo custo fixo e alta margem de lucro no longo prazo.
+
+LINK PLANO DE NEGÓCIO
 ### 5️⃣ SWOT (Análise de Ambientes)
 - Forças: 
 - Fraquezas: 
