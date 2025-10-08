@@ -115,5 +115,6 @@ A solução proposta é um **site didático e interativo** que, a partir da roti
 
 
 **MATRIZ SWOT**
-[Visual Chart Page Iteration 1 (1).pdf](https://github.com/user-attachments/files/22781103/Visual.Chart.Page.Iteration.1.1.pdf)
+<img width="956" height="540" alt="image" src="https://github.com/user-attachments/assets/35e805fc-f801-4a6f-83f9-a7d8a55dcd7e" />
+
 
