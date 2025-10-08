@@ -95,10 +95,25 @@ A solução proposta é um **site didático e interativo** que, a partir da roti
 
 ---
 
-####Justificativa da Precificação
-- O modelo **freemium** garante tração inicial e amplia a base de usuários.  
+**Justificativa da Precificação**
+- O modelo freemium garante tração inicial e amplia a base de usuários.  
 - A assinatura premium gera receita recorrente e acessível ao público-alvo.  
 - Os preços foram definidos com base em plataformas semelhantes (faixa entre R$ 15,00 e R$ 29,90/mês), mantendo a competitividade.  
-- O investimento inicial é baixo frente ao potencial de escalabilidade digital, garantindo **baixo custo fixo e alta margem de lucro a longo prazo**.  
+- O investimento inicial é baixo frente ao potencial de escalabilidade digital, garantindo baixo custo fixo e alta margem de lucro a longo prazo.  
 
 ---
+**Análise de Ambiente (Matriz SWOT)**
+- Concorrentes Indiretos: Plataformas de listagem ou de conteúdo que educam, mas não oferecem uma sugestão personalizada.
+
+- Concorrentes Diretos (ou Substitutos Próximos): Sites de nicho ou serviços que oferecem algum tipo de sugestão baseada em dados, embora geralmente de forma menos integrada.
+- Concorrente: KBB Brasil (Kelley Blue Book), tipo: indireto. Principal referência para preço de mercado de veículos novos e usados. Atuam como ferramenta de consulta para precificação e comparação de modelos, focando no valor de compra e venda. Canais: Site e aplicativos. Marketing: SEO forte e autoridade no mercado.
+
+**Ameaças**:
+- Concorrência com Gigantes Tecnológicos: Se o conceito do seu site for bem-sucedido, grandes players de classificados (como Webmotors) ou seguradoras podem replicar ou comprar o modelo de consultoria personalizada, usando sua base de usuários e recursos muito maiores.
+
+- Alto Custo de Aquisição de Usuário (CAC) para Competir: Para aparecer nos resultados de busca e redes sociais, o custo para atrair novos usuários (CAC) pode ser muito alto, pois o projeto precisa competir com o orçamento de marketing dos grandes portais e concessionárias.
+
+
+**MATRIZ SWOT**
+[Visual Chart Page Iteration 1 (1).pdf](https://github.com/user-attachments/files/22781103/Visual.Chart.Page.Iteration.1.1.pdf)
+
