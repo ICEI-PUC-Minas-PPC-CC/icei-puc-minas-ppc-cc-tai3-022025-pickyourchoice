@@ -107,7 +107,7 @@ A solução proposta é um **site didático e interativo** que, a partir da roti
 
 - **Concorrentes Diretos:** Sites de nicho ou serviços que oferecem algum tipo de sugestão baseada em dados, embora geralmente de forma menos integrada.
   
-- ** Exemplo de concorrente:** KBB Brasil (Kelley Blue Book), tipo: indireto. Principal referência para preço de mercado de veículos novos e usados. Atuam como ferramenta de consulta para precificação e comparação de modelos, focando no valor de compra e venda. Canais: Site e aplicativos. Marketing: SEO forte e autoridade no mercado.
+- **Exemplo de concorrente:** KBB Brasil (Kelley Blue Book), tipo: indireto. Principal referência para preço de mercado de veículos novos e usados. Atuam como ferramenta de consulta para precificação e comparação de modelos, focando no valor de compra e venda. Canais: Site e aplicativos. Marketing: SEO forte e autoridade no mercado.
 
 **Ameaças**:
 - Concorrência com Gigantes Tecnológicos: Se o conceito do seu site for bem-sucedido, grandes players de classificados (como Webmotors) ou seguradoras podem replicar ou comprar o modelo de consultoria personalizada, usando sua base de usuários e recursos muito maiores.
