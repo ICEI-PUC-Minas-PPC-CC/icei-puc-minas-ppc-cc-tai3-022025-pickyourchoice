@@ -38,11 +38,7 @@ A solução proposta é um **site didático e interativo** que, a partir da roti
 Para acessar o documento completo do Plano de Negócio, clique aqui:  
 [👉 Acessar plano_de_negocio.md](./plano_de_negocio.md)
 
-### 5️⃣ SWOT (Análise de Ambientes)
-- Forças: 
-- Fraquezas: 
-- Oportunidades:
-- Ameaças: 
+Link para acessar a planilha excel do planejamento estratégico: [planejamento_estrategico.xlsx](https://github.com/user-attachments/files/22958512/planejamento_estrategico.xlsx)
 
 ### 6️⃣ Planejamento Estratégico (BSC)
 - Objetivos estratégicos:
