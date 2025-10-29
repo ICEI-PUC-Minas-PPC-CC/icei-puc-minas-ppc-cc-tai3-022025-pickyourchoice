@@ -101,6 +101,47 @@ A solução proposta é um **site didático e interativo** que, a partir da roti
 - Os preços foram definidos com base em plataformas semelhantes (faixa entre R$ 15,00 e R$ 29,90/mês), mantendo a competitividade.  
 - O investimento inicial é baixo frente ao potencial de escalabilidade digital, garantindo baixo custo fixo e alta margem de lucro a longo prazo.  
 
+
+💼 Enquadramento Empresarial
+**Natureza Jurídica**
+
+Sociedade Limitada (LTDA)
+Optou-se pela constituição como LTDA, pois permite a atuação conjunta dos sócios, garantindo responsabilidade limitada ao capital social investido — ou seja, cada integrante responde apenas pelo valor que integralizou na empresa.
+Esse formato também oferece flexibilidade contratual, facilita a formalização de parcerias e divisão de lucros e é o mais adequado para negócios digitais em fase de crescimento, que podem futuramente receber novos sócios ou investidores.
+
+**Regime Tributário**
+Simples Nacional
+
+O Simples Nacional foi escolhido por oferecer tributação unificada e simplificada, ideal para micro e pequenas empresas de tecnologia em fase inicial.
+Como a Pick Your Choice atua no segmento de serviços de tecnologia e informação (desenvolvimento e manutenção de site e plataforma interativa), o enquadramento será feito no Anexo III do Simples Nacional, com alíquotas iniciais a partir de 6% sobre o faturamento bruto mensal.
+Justificativa:
+
+Redução da carga tributária e da burocracia administrativa.
+Facilidade na emissão de guias e declarações.
+Compatibilidade com o faturamento estimado inicial (abaixo de R$ 360.000/ano, podendo ser ME).
+Permite crescimento gradual até o limite do Simples (R$ 4,8 milhões/ano).
+
+**Tributação Incidente**
+
+Dentro do Simples Nacional, os tributos são recolhidos em uma única guia (DAS), que já engloba:
+
+IRPJ (Imposto de Renda Pessoa Jurídica)
+CSLL (Contribuição Social sobre o Lucro Líquido)
+PIS (Programa de Integração Social)
+COFINS (Contribuição para o Financiamento da Seguridade Social)
+ISS (Imposto Sobre Serviços) – devido ao município, pois trata-se de prestação de serviço digital.
+INSS Patronal – já incluso na guia do Simples Nacional, quando aplicável.
+Como o modelo de negócio é digital e baseado em assinaturas e publicidade online, não há incidência de ICMS, que se aplica à circulação de mercadorias.
+
+**Obrigações Acessórias**
+
+Mesmo optando pelo Simples Nacional, a empresa deverá cumprir as obrigações acessórias básicas:
+Emissão de Nota Fiscal de Serviços Eletrônica (NFS-e) para assinaturas e parcerias comerciais.
+Entrega anual da DEFIS (Declaração de Informações Socioeconômicas e Fiscais).
+Manutenção do Livro Caixa e registro contábil simplificado, ainda que digital.
+Cadastro Municipal de Prestadores de Serviços (junto à Prefeitura).
+Envio de GFIP/eSocial, quando houver contratação de funcionários.
+
 ---
 **Análise de Ambiente (Matriz SWOT)**
 - **Concorrentes Indiretos:**  Plataformas de listagem ou de conteúdo que educam, mas não oferecem uma sugestão personalizada.
