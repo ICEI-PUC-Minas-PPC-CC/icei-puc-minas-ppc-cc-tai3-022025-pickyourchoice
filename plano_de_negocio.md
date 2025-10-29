@@ -160,3 +160,10 @@ Envio de GFIP/eSocial, quando houver contratação de funcionários.
 <img width="956" height="540" alt="image" src="https://github.com/user-attachments/assets/35e805fc-f801-4a6f-83f9-a7d8a55dcd7e" />
 
 
+
+
+
+ Planilha Fluxo de Caixa:
+ 
+[fluxo_de_caixa.xlsx](https://github.com/user-attachments/files/23222109/fluxo_de_caixa.xlsx)
+
