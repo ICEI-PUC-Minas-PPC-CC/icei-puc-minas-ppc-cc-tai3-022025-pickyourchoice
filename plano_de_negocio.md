@@ -167,3 +167,11 @@ Envio de GFIP/eSocial, quando houver contratação de funcionários.
  
 [fluxo_de_caixa.xlsx](https://github.com/user-attachments/files/23222109/fluxo_de_caixa.xlsx)
 
+Análise textual planilha fluxo de caixa: 
+
+O fluxo de caixa projetado para os quatro primeiros meses demonstra uma fase inicial de investimento e estruturação do negócio, com entradas limitadas e custos operacionais constantes.
+Em Janeiro e Fevereiro, o projeto dependeu majoritariamente do aporte dos sócios para cobrir despesas de desenvolvimento, hospedagem, marketing e manutenção.
+A partir de Março, observa-se o início da geração de receita, tanto com assinaturas Premium quanto com anúncios, o que reduz gradualmente o déficit mensal.
+Em Abril, o negócio atinge seu primeiro saldo positivo mensal (+R$ 350,00), reflexo do aumento de usuários pagos e da maior visibilidade da plataforma.
+O saldo acumulado negativo (-R$ 1.860,00) é coerente com o estágio inicial da empresa, e tende a se equilibrar nos meses seguintes, com crescimento orgânico e parcerias estratégicas.
+Essa projeção confirma a viabilidade do modelo freemium, mostrando que, com baixo custo fixo e margens altas sobre serviços digitais, a empresa pode atingir o ponto de equilíbrio até o segundo semestre.
