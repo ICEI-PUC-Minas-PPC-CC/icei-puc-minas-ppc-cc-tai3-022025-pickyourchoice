@@ -40,18 +40,7 @@ Para acessar o documento completo do Plano de Negócio, clique aqui:
 
 Link para acessar a planilha excel do planejamento estratégico: [planejamento_estrategico.xlsx](https://github.com/user-attachments/files/22958512/planejamento_estrategico.xlsx)
 
-### 6️⃣ Planejamento Estratégico (BSC)
-- Objetivos estratégicos:
-- Indicadores e metas:
-- Ações planejadas:
 
-### 7️⃣ Fluxo de Caixa
-- Planilha ou print do fluxo projetado:  
-- Principais considerações:  
-
-### 8️⃣ Valuation
-- Método utilizado:  
-- Valor estimado:  
 
 ### 9️⃣ Segurança Cibernética
 - Riscos identificados: 
