@@ -175,3 +175,6 @@ A partir de Março, observa-se o início da geração de receita, tanto com assi
 Em Abril, o negócio atinge seu primeiro saldo positivo mensal (+R$ 350,00), reflexo do aumento de usuários pagos e da maior visibilidade da plataforma.
 O saldo acumulado negativo (-R$ 1.860,00) é coerente com o estágio inicial da empresa, e tende a se equilibrar nos meses seguintes, com crescimento orgânico e parcerias estratégicas.
 Essa projeção confirma a viabilidade do modelo freemium, mostrando que, com baixo custo fixo e margens altas sobre serviços digitais, a empresa pode atingir o ponto de equilíbrio até o segundo semestre.
+
+Arquivo pdf valuation:[valuation_grupo_pickyourchoice.pdf](https://github.com/user-attachments/files/23320065/valuation_grupo_pickyourchoice.pdf)
+
