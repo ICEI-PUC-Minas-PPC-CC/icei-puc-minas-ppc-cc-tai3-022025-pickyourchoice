@@ -1,0 +1,93 @@
+Sistema de Recomendação de Veículos com Flask
+ 
+Este projeto consiste em uma aplicação web desenvolvida em Python utilizando o framework Flask, cujo objetivo é recomendar um veículo ao usuário com base em suas preferências pessoais, como tipo de carroceria, estilo de uso, motor, espaço interno e faixa de preço.
+ 
+ 
+A aplicação conta com cadastro de usuários, persistência de dados em banco SQLite e um painel administrativo para visualização dos usuários e das recomendações realizadas.
+ 
+
+ 
+Objetivo do Projeto
+ 
+Desenvolver um sistema interativo capaz de:
+
+- Coletar informações do usuário por meio de um questionário;
+
+- Analisar as respostas e calcular a melhor recomendação de veículo;
+
+- Armazenar os dados do usuário e o carro recomendado em banco de dados;
+
+- Disponibilizar um painel administrativo para consulta das informações cadastradas.
+ 
+
+Tecnologias Utilizadas
+ 
+- Python 3
+
+- Flask
+
+- SQLite
+
+- HTML5
+
+- CSS3
+
+- Jinja2
+
+- Werkzeug (hash de senhas)
+ 
+
+ 
+Estrutura do Projeto
+├── app.py                 # Arquivo principal da aplicação Flask
+
+├── criar_banco.py         # Script para criação e população do banco de carros
+
+├── usuarios.db            # Banco de dados dos usuários
+
+├── admins.db              # Banco de dados dos administradores
+
+├── carros.db # Banco de dados de veículos
+
+├── templates/ # Arquivos HTML da aplicação
+
+└── README.md # Documentação do projeto
+
+
+
+Funcionamento do Sistema
+ 
+Usuário
+
+1. O usuário realiza cadastro ou login informando nome, telefone e e-mail.
+
+2. Em seguida, responde a um questionário composto por cinco perguntas relacionadas às preferências de veículo.
+
+3. O sistema processa as respostas, compara com os veículos cadastrados e determina a melhor recomendação.
+
+4. O veículo recomendado é exibido ao usuário e salvo automaticamente no banco de dados.
+ 
+Administrador
+
+- O administrador pode:
+
+  - Criar conta administrativa;
+
+  - Realizar login em área restrita;
+
+  - Visualizar a lista de usuários cadastrados;
+
+  - Consultar o carro recomendado para cada usuário.
+ 
+
+ Banco de Dados
+ 
+O sistema utiliza SQLite com bancos separados para melhor organização:
+
+- usuarios.db: dados dos usuários e veículo recomendado;
+
+- admins.db: credenciais dos administradores;
+
+- carros.db: dados dos veículos disponíveis para recomendação.
+ 
+As tabelas são criadas automaticamente ao iniciar a aplicação.
