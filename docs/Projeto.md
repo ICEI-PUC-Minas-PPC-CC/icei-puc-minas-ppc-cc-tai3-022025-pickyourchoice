@@ -2,6 +2,7 @@
 Swot: <img width="956" height="540" alt="swot" src="https://github.com/user-attachments/assets/ed3efb14-6861-4a0f-9a84-caf2ee5ce805" />
 Fluxo de caixa:[fluxo_de_caixa.xlsx](https://github.com/user-attachments/files/24221781/fluxo_de_caixa.xlsx)
 
-Arquivo pdf valuation:valuation_grupo_pickyourchoice.pdf
+Arquivo pdf valuation: valuation_grupo_pickyourchoice.pdf
+
 
 
