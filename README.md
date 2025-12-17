@@ -44,7 +44,6 @@ Link para acessar a planilha excel do planejamento estratégico: [planejamento_e
 
 ### 9️⃣ Segurança Cibernética
 - Riscos identificados: 
-
 Vazamento de dados dos usuários
 
 Ataques ao site e acessos não autorizados
@@ -56,7 +55,6 @@ Fraudes em pagamentos
 Perda de dados por falhas técnicas
 
 - Medidas de segurança:
-- 
 Criptografia SSL/HTTPS
 
 Senhas protegidas e controle de acesso
@@ -72,6 +70,7 @@ Monitoramento de acessos
 Uso de gateways de pagamento confiáveis
 
 Adequação à LGPD
+
 ---
 
 ## 📅 Diário de Bordo
