@@ -44,7 +44,34 @@ Link para acessar a planilha excel do planejamento estratégico: [planejamento_e
 
 ### 9️⃣ Segurança Cibernética
 - Riscos identificados: 
-- Medidas de segurança:  
+
+Vazamento de dados dos usuários
+
+Ataques ao site e acessos não autorizados
+
+Falhas em APIs externas
+
+Fraudes em pagamentos
+
+Perda de dados por falhas técnicas
+
+- Medidas de segurança:
+- 
+Criptografia SSL/HTTPS
+
+Senhas protegidas e controle de acesso
+
+Backups automáticos em nuvem
+
+Firewall e proteção contra ataques
+
+Atualizações constantes do sistema
+
+Monitoramento de acessos
+
+Uso de gateways de pagamento confiáveis
+
+Adequação à LGPD
 ---
 
 ## 📅 Diário de Bordo
